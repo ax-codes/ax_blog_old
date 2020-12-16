@@ -1,0 +1,51 @@
+# links
+谷歌翻译:
+  link: https://translate.google.cn/
+  avatar: /images/favatar/google-logo.jpg
+  desc: 谷歌翻译
+github:
+  link: https://github.com/
+  avatar:
+  desc: 面向开源及私有软件项目的托管平台
+c#代码在线测试:
+  link: https://try.dot.net/
+  avatar:
+  desc: 微软官方c#代码在线测试
+菜鸟教程:
+  link: http://www.runoob.com/
+  avatar: /images/favatar/runoob-logo.png
+  desc: 编程学习网站
+itellyon.cn:
+  link: https://msdn.itellyou.cn/
+  avatar: /images/favatar/itellyou.cn-logo.png
+  desc: windows系统和开发工具
+gitbook:
+  link: https://www.gitbook.com
+  avatar: /images/favatar/gitbook-logo.jpg
+  desc: gitbook官网
+w3school:
+  link: http://www.w3school.com.cn/
+  avatar: /images/favatar/w3school.jpg
+  desc: 领先的 Web 技术教程 - 全部免费
+json.cn:
+  link: https://www.json.cn/
+  avatar: /images/favatar/json.cn.jpg
+  desc: json字符串解析网站
+NBA中国:
+  link: http://nbachina.qq.com
+  avatar: /images/favatar/nbachina-logo.png
+  desc: NBA中国官方网站
+创造狮:
+  link: http://chuangzaoshi.com/
+  avatar: /images/favatar/chuangzaoshi-logo.png
+  desc: 为创意工作者而设计
+腾讯设计导航:
+  link: http://idesign.qq.com/
+  avatar: /images/favatar/idesign-logo.png
+  desc: 网罗全网高逼格的设计站点
+Apicoding:
+  link: https://apicoding.io/
+  desc: 一个提供公共API的平台
+Public Api:
+  link: https://github.com/public-apis/public-apis
+  desc: 一个提供公共API的Github仓库

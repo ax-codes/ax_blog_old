@@ -1,0 +1,13 @@
+分类&标签：
+
+所有分类:
+技术,生活,常用
+
+所有标签:
+c语言,c++,csharp,.net/.net core,python,Rust,js,linux,windows,docker,Qt,数据库,开发工具/插件,效率工具/插件,其他工具/插件,技术随笔,生活随笔,其他随笔,虚拟机
+
+技术(分类)：
+c语言,c++,csharp,.net/.net core,python,Rust,js,linux,windows,docker,Qt,数据库,开发工具/插件,效率工具/插件,其他工具/插件,技术随笔
+
+生活(分类)：
+效率工具/插件,生活随笔

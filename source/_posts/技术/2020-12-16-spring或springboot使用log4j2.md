@@ -1,5 +1,5 @@
 ---
-title: springboot使用log4j2
+title: spring或springboot使用log4j2
 date: 2020/12/16 20:00:00
 categories: 技术
 toc: True
